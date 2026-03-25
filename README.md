@@ -1,5 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yoshita19)
 ![Followers](https://img.shields.io/github/followers/yoshita19)
+![Stars](https://img.shields.io/github/stars/yoshita19?affiliations=OWNER&style=social)
 # 👋 Hi, I'm Yoshita Sharma
 
 🚀 Tech Enthusiast | Future Entrepreneur  

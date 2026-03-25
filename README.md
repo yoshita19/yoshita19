@@ -2,27 +2,54 @@
 ![Followers](https://img.shields.io/github/followers/yoshita19)
 # 👋 Hi, I'm Yoshita Sharma
 
-🚀 Aspiring AI & Tech Entrepreneur  
-💡 Building solutions in AI, Digital Marketing & Automation  
-🎯 Goal: Creating scalable tech products & services  
+🚀 Tech Enthusiast | Future Entrepreneur  
+💡 Building solutions in AI, Automation & Digital Business  
+🎯 Goal: Create scalable tech products & earn through them  
+
+---
+
+## 🚀 About Me
+- 👩‍💻 Currently building real-world projects  
+- 📈 Interested in startups, AI & digital growth  
+- 🎯 Focused on turning ideas into income  
 
 ---
 
 ## 🔧 Projects
 
 ### 🎙️ RESONATOR - Text to Speech Converter
-- Converts text into speech using Python
-- Features: volume + speed control
-- Built for accessibility & content creation
+🧠 A Python-based tool to convert text into speech for accessibility & content creation  
+
+✨ Features:
+- Volume control (loud/normal)
+- Speed control (fast/slow)
+- Simple CLI interface
 
 🔗 Project Link: https://github.com/yoshita19/text-to-speech-converter
 
 ---
 
-## 🛠️ Skills
-- Python (Beginner)
-- Git & GitHub
-- Digital Marketing (Google Ads, Meta Ads, designing , creative head)
+## 🛠️ Tech Stack
+- 💻 Python  
+- 🌐 Git & GitHub  
+- 📊 Digital Marketing (Google Ads, Meta Ads ,designing)
+  
+
+---
+
+## 📈 GitHub Stats
+![Yoshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshita19&show_icons=true)
+
+---
+
+## 🔥 Current Focus
+- Building AI-based tools  
+- Exploring business automation  
+- Learning to monetize tech skills  
+
+---
+
+⭐ *"Building today to lead tomorrow"*
 - AI beginner learner
 
 ---

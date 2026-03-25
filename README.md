@@ -2,6 +2,7 @@
 ![Followers](https://img.shields.io/github/followers/yoshita19)
 ![Stars](https://img.shields.io/github/stars/yoshita19?affiliations=OWNER&style=social)
 # 👋 Hi, I'm Yoshita Sharma
+## 🚀 Turning Ideas into Scalable Tech
 
 🚀 Tech Enthusiast | Future Entrepreneur  
 💡 Building solutions in AI, Automation & Digital Business  
